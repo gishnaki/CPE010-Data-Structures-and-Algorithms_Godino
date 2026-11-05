@@ -18,18 +18,18 @@
 | **I** | **Course Introduction:** TIP Vision and Mission; TIP Graduate Attributes/Institutional Learning Outcomes; Program Educational Objectives / Student Outcomes; Course Syllabus and Course Requirements; Orientation for Industry and Laboratory Software and Tools. |
 | **II** | **Introduction to Data Structures and Algorithm Analysis:** [C++ Programming Review](./PRELIM/CPE010_HOA1p1_Godino/), [Abstract Data Types](./PRELIM/CPE010_HOA3p1_Godino/), Space and Time Complexity, Algorithm Analysis Techniques. |
 | **III** | **Arrays and Linked Lists:** [Dynamic Memory Allocation](./PRELIM/CPE010_HOA2p1_Godino/), and [Singly, Doubly, and Circular Linked Lists](./PRELIM/CPE010_HOA3p1_Godino/). |
-| **IV** | **Stacks:** [Stack using Array, Stack using Linked Lists, Implementation in C++, Problem Solving](./PRELIM/CPE010_HOA5p1_Godino/). |
+| **IV** | **Stacks:** [Stack using Array, Stack using Linked Lists, Implementation in C++, Problem Solving](./PRELIM/CPE010_HOA4p1_Godino/). |
 
 ### Midterm Period
 | Topic # | Description |
 | :---: | :--- |
-| **I** | **Queues:** Queues using Arrays, Queues using Linked Lists, Implementation in C++, Problem Solving. |
-| **II** | **Searching Techniques:** Linear Search, Binary Search, Hashing. |
-| **III** | **Sorting Algorithms:** Basic Sorting Algorithms. |
+| **I** | **Queues:** [Queues using Arrays, Queues using Linked Lists, Implementation in C++, Problem Solving](./PRELIM/CPE010_HOA5p1_Godino/). |
+| **II** | **Searching Techniques:** [Linear Search, Binary Search, Hashing](./MIDTERM/CPE010_HOA6p1_Godino/). |
+| **III** | **Sorting Algorithms:** [Basic Sorting Algorithms Pt1](./MIDTERM/CPE010_HOA7p1_Godino/) and [Basic Sorting Algorithms Pt2](./MIDTERM/CPE010_HOA8p1_Godino/). |
 
 ### Final Period
 | Topic # | Description |
 | :---: | :--- |
-| **I** | **Tree ADT:** General and Binary Search Trees; AVL Tree; Traversal Algorithms; Solving Problems using Trees. |
+| **I** | **Tree ADT:** [General and Binary Search Trees; AVL Tree; Traversal Algorithms; Solving Problems using Trees](./MIDTERM/CPE010_HOA9p1_Godino/). |
 | **II** | **Graph ADT:** Adjacency Matrix and Adjacency List; Breadth-First Search; Depth-First Search; Solving Problems using Graphs. |
 | **III** | **Basic Algorithm Analysis:** Theoretical and Experimental Methods in Measuring Time; Time Complexity Classes. |
