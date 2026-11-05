@@ -31,5 +31,5 @@
 | Topic # | Description |
 | :---: | :--- |
 | **I** | **Tree ADT:** [General and Binary Search Trees; AVL Tree; Traversal Algorithms; Solving Problems using Trees](./MIDTERM/CPE010_HOA9p1_Godino/). |
-| **II** | **Graph ADT:** Adjacency Matrix and Adjacency List; Breadth-First Search; Depth-First Search; Solving Problems using Graphs. |
-| **III** | **Basic Algorithm Analysis:** Theoretical and Experimental Methods in Measuring Time; Time Complexity Classes. |
+| **II** | **Graph ADT:** [Adjacency Matrix and Adjacency List; Breadth-First Search; Depth-First Search; Solving Problems using Graphs.](./MIDTERM/CPE010_HOA10p1_Godino/) |
+| **III** | **Basic Algorithm Analysis:** Theoretical and Experimental Methods in Measuring Time; Time Complexity Classes([Basic Algorithm Analysis](./FINAL/CPE010_HOA11p1_Godino/), [Algorithmic Strategies](./FINAL/CPE010_HOA12p1_Godino/), [Parallel Algorithms and Multithreading](./FINAL/CPE010_HOA13p1_Godino/), and [Algorithm Complexity](./FINAL/CPE010_HOA14p1_Godino/)). |
