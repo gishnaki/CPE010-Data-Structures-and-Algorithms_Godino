@@ -1,4 +1,4 @@
-##CPE 010: Data Structures and Algorithms:
+## CPE 010: Data Structures and Algorithms:
 
 ## Course Intended Learning Outcomes (CILOs)
 
